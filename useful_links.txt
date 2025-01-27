@@ -1,0 +1,5 @@
+IBL Dataset Types:
+https://docs.google.com/document/d/1OqIqqakPakHXRAwceYLwFY9gOrm8_P62XIfCTnHwstg/edit?tab=t.0
+
+Searching with ONE-api:
+https://int-brain-lab.github.io/ONE/notebooks/one_search/one_search.html
